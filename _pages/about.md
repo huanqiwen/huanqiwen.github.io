@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Guaduate student | Algebraic geometry
+subtitle: Guaduate student | Algebraic geometry 
 
 profile:
   align: right
@@ -20,4 +20,5 @@ social: true # includes social icons at the bottom of the page
 
 Welcome to my website. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+At present, I'm a graduate student majoring in Algebraic geometry at Sun Yat-sen University.
+
