@@ -6,19 +6,19 @@
     "email": "wenhq7@mail2.sysu.edu.cn",
     "phone": "",
     "url": "https://Vera-Wen7.github.io",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "summary": "A grasuate student majoring in Algebraic geometry in Sun Yat-sen University; Long-term goal is to pursue a career in academia.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "135 W. Xingang RD.",
+      "postalCode": "510275",
+      "city": "Guangzhou",
+      "countryCode": "PR. China",
+      "region": "Guangdong"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
@@ -47,15 +47,26 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "Sun Yat-sen University",
+      "location": "Guangzhou, China",
+      "url": "https://www.sysu.edu.cn",
+      "area": "Mathematics",
+      "studyType": "M.S.",
+      "startDate": "09/2023",
+      "endDate": "Present",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Algebraic Geometry"]
+    },
+    {
+      "institution": "Sun Yat-sen University",
+      "location": "Guangzhou, China",
+      "url": "https://www.sysu.edu.cn",
+      "area": "Mathmetics",
+      "studyType": "B.S.",
+      "startDate": "09/2019",
+      "endDate": "06/2023",
+      "score": "10",
+      "courses": ["Minnor in Economics"]
     }
   ],
   "awards": [
