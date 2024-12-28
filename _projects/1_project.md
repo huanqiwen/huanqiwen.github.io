@@ -8,12 +8,8 @@ category: work
 
 I'm the speaker of the toric geometry seminar (2023 Spring-2024 Autumn). Reference is Fulton's "Introduction to Toric Varieties". Below is my notes. Later I shall organize them in my blog.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+    
+{% raw %}
 
 ```html
 <div class="row justify-content-sm-center">
