@@ -55,28 +55,6 @@ ninja.data = [{
           window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
         
       },
-    },{id: "post-a-post-with-tikzjax",
-      
-        title: "a post with TikZJax",
-      
-      description: "this is what included TikZ code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/tikzjax/";
-        
-      },
-    },{id: "post-a-post-with-jupyter-notebook",
-      
-        title: "a post with jupyter notebook",
-      
-      description: "an example of a blog post with jupyter notebook",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2023/jupyter-notebook/";
-        
-      },
     },{id: "post-a-post-with-custom-blockquotes",
       
         title: "a post with custom blockquotes",
