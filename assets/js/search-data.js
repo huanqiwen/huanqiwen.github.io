@@ -55,6 +55,39 @@ ninja.data = [{
           window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
         
       },
+    },{id: "post-a-post-with-pseudo-code",
+      
+        title: "a post with pseudo code",
+      
+      description: "this is what included pseudo code could look like",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/pseudocode/";
+        
+      },
+    },{id: "post-a-post-with-vega-lite",
+      
+        title: "a post with vega lite",
+      
+      description: "this is what included vega lite code could look like",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/vega-lite/";
+        
+      },
+    },{id: "post-a-post-with-echarts",
+      
+        title: "a post with echarts",
+      
+      description: "this is what included echarts code could look like",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/echarts/";
+        
+      },
     },{id: "post-a-post-with-chart-js",
       
         title: "a post with chart.js",
@@ -130,6 +163,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2023/videos/";
+        
+      },
+    },{id: "post-displaying-beautiful-tables-with-bootstrap-tables",
+      
+        title: "displaying beautiful tables with Bootstrap Tables",
+      
+      description: "an example of how to use Bootstrap Tables",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2023/tables/";
         
       },
     },{id: "post-displaying-external-posts-on-your-al-folio-blog",
