@@ -20,5 +20,7 @@ social: true # includes social icons at the bottom of the page
 
 Welcome to my website. 
 
-At present, I'm a graduate student majoring in Algebraic geometry at Sun Yat-sen University.
+At present, I'm a graduate student majoring in Algebraic geometry at Sun Yat-sen University. My curent research interest include toric geometry and positivity of linear series. My career plan is to work in mathematics academia。
+
+
 
