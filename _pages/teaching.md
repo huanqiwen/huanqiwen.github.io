@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Teaching
-nav: true
+nav: false
 nav_order: 4
 ---
 
