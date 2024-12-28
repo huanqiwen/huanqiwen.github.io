@@ -450,35 +450,14 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("mailto:%77%65%6E%68%71%37@%6D%61%69%6C%32.%73%79%73%75.%65%64%75.%63%6E", "_blank");
         },
       },{
         id: 'social-custom_social',
         title: 'Custom_social',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
+          window.open("https://www.xiaohongshu.com/user/profile/64ca6dbf000000000b006f93?xsec_token=YBsI9Iuechx2b2-0UWcyu4k7oa5KXHSD0Olg85Os-H6KQ=&xsec_source=app_share&xhsshare=CopyLink&appuid=64ca6dbf000000000b006f93&apptime=1735383784&share_id=c98511493c664a31a8981fbc6e6f4d4a", "_blank");
         },
       },{
       id: 'light-theme',
