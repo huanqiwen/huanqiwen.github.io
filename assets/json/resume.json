@@ -6,7 +6,7 @@
     "email": "wenhq7@mail2.sysu.edu.cn",
     "phone": "",
     "url": "https://Vera-Wen7.github.io",
-    "summary": "A grasuate student majoring in Algebraic geometry in Sun Yat-sen University; Long-term goal is to pursue a career in academia.",
+    "summary": "A grasuate student majoring in Algebraic geometry at Sun Yat-sen University; Long-term goal is to pursue a career in academia.",
     "location": {
       "address": "135 W. Xingang RD.",
       "postalCode": "510275",
@@ -107,11 +107,6 @@
   ],
   "interests": [
     {
-      "name": "History",
-      "icon": "fa-solid fa-tag",
-      "keywords": ""
-    },
-    {
       "name": "Sports",
       "icon": "fa-solid fa-tag",
       "keywords": [
@@ -126,6 +121,14 @@
       "keywords": [
         "Photography",
         "Food"
+      ]
+    },
+    {
+      "name": "History",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Knowledge about History",
+        "Books, films and TV works"
       ]
     }
   ]
