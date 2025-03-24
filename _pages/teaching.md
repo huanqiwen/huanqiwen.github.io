@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching
+title: Lecture notes
 nav: false
 nav_order: 4
 ---
