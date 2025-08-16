@@ -96,6 +96,8 @@ layout: default
                   {% include resume/volunteer.liquid %}
                 {% when 'projects' %}
                   {% include resume/projects.liquid %}
+                {% when 'seminar' %}
+                  {% include resume/seminar.liquid %}
                 {% when 'awards' %}
                   {% include resume/awards.liquid %}
                 {% when 'skills' %}
@@ -108,6 +110,8 @@ layout: default
                   {% include resume/interests.liquid %}
                 {% when 'certificates' %}
                   {% include resume/certificates.liquid %}
+                {% when 'conferences' %}
+                  {% include resume/conferences.liquid %}
                 {% when 'references' %}
                   {% include resume/references.liquid %}
                 {% else %}
