@@ -644,6 +644,8 @@ jsonresume:
   - education
   - publications
   - projects
+  - seminar
+  - conferences
   - volunteer
   - awards
   - certificates
