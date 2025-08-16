@@ -10,7 +10,7 @@ I'm the speaker of the toric geometry seminar (2023 Spring-2024 Autumn). Referen
 
 ### Notes list (To be continued)
 
-- [Section 5.3](/assets/pdf/toric_seminar/5.3.pdf)
+- [Section 5.3](/assets/pdf/toric_seminar/5-3.pdf)
 
 
     
