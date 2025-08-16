@@ -5,7 +5,7 @@ title: CV
 nav: true
 nav_order: 1
 # cv_pdf: example_pdf.pdf 
-# description: 
+description: You can also see my academic CV here
 toc:
   sidebar: left
 ---
