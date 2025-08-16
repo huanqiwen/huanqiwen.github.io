@@ -90,19 +90,19 @@
       "summary": "I'm the speaker of this reading seminar. The refenrences are Fulton’s ‘Introduction to Toric Varieties‘ and other classical papers",
       "startDate": " 2024 Spring",
       "endDate": "2024 Fall",
-    }
+    },
     {
       "name": "Graded syzygies",
       "summary": "I'm one of speakers of this reading seminar. The refenrence book is  Irena Peeva’s 'Graded Syzygies'",
       "startDate": "2025 Spring"
-    }
+    },
     {
       "name": "Algebraic geometry",
       "summary": "The refenrence book is Hartshorne’s 'Algebraic Geometry'",
       "startDate": "2024 Spring",
       "endDate": "2025 Spring",
     }
-  ]
+  ],
   "awards": [
     {
       "title": "Mathematical Contest in Modeling (MCM) – Honorable Mention,",
