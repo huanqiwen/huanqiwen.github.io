@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "CV",
-          description: "You can also see my [academic CV]({{ &#39;/assets/pdfs/Academic_CV_Huanqi_Wen (1)&#39; | relative_url }})",
+          description: "You can also see my [academic CV]({{ &#39;/assets/pdfs/Academic_CV_Huanqi_Wen (1)&#39; | relative_url }}) here.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
