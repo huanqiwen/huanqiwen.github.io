@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Notes
-permalink: /projects/
+permalink: /notes/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 4
