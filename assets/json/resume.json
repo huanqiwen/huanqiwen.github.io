@@ -1,13 +1,12 @@
 {
   "basics": {
     "name": "Huanqi Wen",
-    "label": "Guaduate student",
+    "summary": "A grasuate student majoring in Algebraic geometry at Sun Yat-sen University",
+    "research interests": "Positivity of linear series and stability of syzygy bundles on toric varieties",
     "image": "",
     "email": "wenhq7@mail2.sysu.edu.cn",
     "phone": "",
     "url": "https://Vera-Wen7.github.io",
-    "summary": "A grasuate student majoring in Algebraic geometry at Sun Yat-sen University; Long-term goal is to pursue a career in academia.",
-    "location": {
       "address": "135 W. Xingang RD.",
       "postalCode": "510275",
       "city": "Guangzhou",
