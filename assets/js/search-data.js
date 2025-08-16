@@ -35,7 +35,7 @@ ninja.data = [{
           description: "A growing collection of your cool projects.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/projects/";
+            window.location.href = "/notes/";
           },
         },{id: "projects-toric-geometry-seminar",
           title: 'Toric geometry seminar',
