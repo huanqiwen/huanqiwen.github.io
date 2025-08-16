@@ -57,24 +57,24 @@
   ],
   "conferences": [
     {
-      "name": "2024 International Summer school of Algebraic Geometry",
+      "title": "2024 International Summer school of Algebraic Geometry",
       "date": "2024-07",
       "place": " Fudan University",
       "url": "https://scms.fudan.edu.cn/info/4588/6631.htm"
     },
     {
-      "name": "China Southeastern Algebraic Geometry Symposium VII",
+      "title": "China Southeastern Algebraic Geometry Symposium VII",
       "date": "2024-12",
       "place": "Sun Yat-sen University",
       "url": "https://math.sysu.edu.cn/article/3605"
     },
     {
-      "name": "Stable reduction of algebraic curves",
+      "title": "Stable reduction of algebraic curves",
       "date": "2025-05",
       "place": "Xiamen University"
     },
     {
-      "name": "2025 SRI in algebraic geometry",
+      "title": "2025 SRI in algebraic geometry",
       "date": "2025-07",
       "place": "Colorado State University",
       "url": "https://sites.google.com/view/2025summerinstitute/home"
