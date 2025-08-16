@@ -54,6 +54,35 @@
       "summary": "About toric geometry and Oda's conjecture in combinatorics "
     }
   ],
+  "conferences": [
+    {
+      "name": "2024 International Summer school of Algebraic Geometry",
+      "date": "2024-07",
+      "issuer": " Fudan University",
+      "url": "https://scms.fudan.edu.cn/info/4588/6631.htm",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "China Southeastern Algebraic Geometry Symposium VII",
+      "date": "2024-12",
+      "issuer": "Sun Yat-sen University",
+      "url": "https://math.sysu.edu.cn/article/3605",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Stable reduction of algebraic curves",
+      "date": "2025-05",
+      "issuer": "Xiamen University",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "2025 SRI in algebraic geometry",
+      "date": "2025-07",
+      "issuer": "Colorado State University",
+      "url": "https://sites.google.com/view/2025summerinstitute/home",
+      "icon": "fa-solid fa-hashtag"
+    }
+  ],
   "awards": [
     {
       "title": "Mathematical Contest in Modeling (MCM) – Honorable Mention,",
@@ -64,15 +93,6 @@
     }
   ],
   "skills": [
-    {
-      "name": "Mathematics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Algebraic Geometry",
-        "Toric Geometry"
-      ]
-    },
     {
       "name": "Programming Languages",
       "level": "Master",
