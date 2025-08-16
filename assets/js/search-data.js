@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-cv",
           title: "CV",
-          description: "You can also see my [academic CV](/assets/pdf/Academic_CV_Huanqi_Wen.pdf) here.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
