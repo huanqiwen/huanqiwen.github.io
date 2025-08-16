@@ -89,7 +89,7 @@
       "name": "Toric Geometry",
       "summary": "I'm the speaker of this reading seminar. The refenrences are Fulton’s ‘Introduction to Toric Varieties‘ and other classical papers",
       "startDate": " 2024 Spring",
-      "endDate": "2024 Fall",
+      "endDate": "2024 Fall"
     },
     {
       "name": "Graded syzygies",
@@ -100,7 +100,7 @@
       "name": "Algebraic geometry",
       "summary": "The refenrence book is Hartshorne’s 'Algebraic Geometry'",
       "startDate": "2024 Spring",
-      "endDate": "2025 Spring",
+      "endDate": "2025 Spring"
     }
   ],
   "awards": [
