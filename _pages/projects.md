@@ -2,7 +2,6 @@
 layout: page
 title: Notes
 permalink: /notes/
-description: A growing collection of your cool projects.
 nav: true
 nav_order: 4
 display_categories: [work, fun]
