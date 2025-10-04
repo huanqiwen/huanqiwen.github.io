@@ -6,7 +6,7 @@ importance: 1
 category: work
 ---
 
-I'm the speaker of the toric geometry seminar (2023 Spring-2024 Autumn). Reference is Fulton's "Introduction to Toric Varieties". Below is my notes. Later I shall organize them in my blog.
+I was the speaker for the Toric Geometry Seminar (Fall 2023 – Fall 2024). The main references were Fulton’s Introduction to Toric Varieties and Cox–Little–Schenck’s Toric Varieties. Below are my notes, which I may later organize in LaTeX.
 
 ### Notes list (To be continued)
 
