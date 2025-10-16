@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Notes
-permalink: /notes/
-nav: true
+title: Projects
+permalink: /projects/
+nav: false
 nav_order: 4
 display_categories: [work, fun]
 horizontal: false
