@@ -37,7 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/notes/";
           },
-        },{
+        },{id: "projects-toric-geometry-seminar",
+          title: 'Toric geometry seminar',
+          description: "Graduate-level",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
