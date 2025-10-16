@@ -149,7 +149,7 @@ collections:
       layout: post
     output: true
     permalink: /:collection/:title/
-  projects:
+  notes:
     output: true
     permalink: /:collection/:title/
 
@@ -207,6 +207,7 @@ exclude:
   - _pages/repositories.md
   - _pages/news.md
   - _pages/profiles.md
+  - _pages/projects.md
 keep_files:
   - CNAME
   - .nojekyll
