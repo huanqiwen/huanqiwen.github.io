@@ -37,14 +37,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/notes/";
           },
-        },{id: "nav-notes",
-          title: "Notes",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/notes/";
-          },
-        },{id: "projects-toric-geometry-seminar",
+        },{id: "notes-toric-geometry-seminar",
+          title: 'Toric geometry seminar',
+          description: "Graduate-level",
+          section: "Notes",handler: () => {
+              window.location.href = "/notes/toeic_geometry/";
+            },},{id: "projects-toric-geometry-seminar",
           title: 'Toric geometry seminar',
           description: "Graduate-level",
           section: "Projects",handler: () => {
