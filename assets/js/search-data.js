@@ -60,11 +60,6 @@ ninja.data = [{
           description: "Graduate-level",
           section: "Notes",handler: () => {
               window.location.href = "/notes/toeic_geometry/";
-            },},{id: "projects-toric-geometry-seminar",
-          title: 'Toric geometry seminar',
-          description: "Graduate-level",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
             },},{
         id: 'social-email',
         title: 'email',
