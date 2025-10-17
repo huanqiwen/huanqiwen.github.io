@@ -7,4 +7,4 @@ tags: code
 categories: sample-posts
 ---
 
-This website is built using <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">the template</a>.
+This website is built using <a href="https://github.com/alshedivat/al-folio">the template</a>.
