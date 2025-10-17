@@ -2,7 +2,6 @@
 layout: post
 title: My website template
 date: 2024-09-15 16:40:16
-description: 
 tags: code
 categories: sample-posts
 ---
