@@ -2,7 +2,8 @@
 layout: page
 permalink: /documents/
 title: documents
-nav: false
+nav: true
+nav_order: 1
 ---
 
 
