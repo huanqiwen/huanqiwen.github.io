@@ -44,11 +44,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/documents/";
           },
-        },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+        },{id: "news-none",
+          title: 'None',
           description: "",
           section: "News",},{id: "notes-toric-geometry-seminar",
           title: 'Toric geometry seminar',
