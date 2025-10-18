@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Guaduate student | Algebraic geometry 
+subtitle: Graduate student | Algebraic geometry 
 
 profile:
   align: right
