@@ -46,7 +46,7 @@ ninja.data = [{
           section: "Notes",handler: () => {
               window.location.href = "/notes/graded_syzygies/";
             },},{id: "notes-toric-geometry-seminar",
-          title: 'Toric geometry seminar',
+          title: 'Toric Geometry Seminar',
           description: "Graduate-level",
           section: "Notes",handler: () => {
               window.location.href = "/notes/toeic_geometry/";
