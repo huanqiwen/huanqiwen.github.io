@@ -44,6 +44,11 @@ ninja.data = [{
           title: 'Toric geometry seminar',
           description: "Graduate-level",
           section: "Notes",handler: () => {
+              window.location.href = "/notes/graded_syzygies/";
+            },},{id: "notes-toric-geometry-seminar",
+          title: 'Toric geometry seminar',
+          description: "Graduate-level",
+          section: "Notes",handler: () => {
               window.location.href = "/notes/toeic_geometry/";
             },},{
         id: 'social-email',
