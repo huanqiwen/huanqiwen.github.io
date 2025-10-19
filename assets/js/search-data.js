@@ -40,8 +40,8 @@ ninja.data = [{
         },{id: "news-none",
           title: 'None',
           description: "",
-          section: "News",},{id: "notes-toric-geometry-seminar",
-          title: 'Toric geometry seminar',
+          section: "News",},{id: "notes-graded-syzygies-seminar",
+          title: 'Graded Syzygies Seminar',
           description: "Graduate-level",
           section: "Notes",handler: () => {
               window.location.href = "/notes/graded_syzygies/";
