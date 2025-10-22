@@ -56,7 +56,7 @@ ninja.data = [{
           title: 'Toric Geometry Seminar',
           description: "Graduate-level",
           section: "Notes",handler: () => {
-              window.location.href = "/notes/toeic_geometry/";
+              window.location.href = "/notes/toric_geometry/";
             },},{
         id: 'social-email',
         title: 'email',
