@@ -9,6 +9,7 @@ nav_order: 5
 
 ## List
 - [CV](/assets/pdf/documents/CV_Phd_Application_Huanqi_Wen_v3.pdf)
+- [CV-2](/assets/pdf/documents/CV_Huanqi_Wen.pdf)
 - [Graduate Transcript](/assets/pdf/documents/transcript_graduate_SYSU.pdf)
 - [Undergraduate Transcript](/assets/pdf/documents/transcript_undergraduate_SYSU.pdf)
 - [Research Statement](/assets/pdf/documents/Research_Statement.pdf)
