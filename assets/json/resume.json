@@ -1,19 +1,13 @@
 {
   "basics": {
     "name": "Huanqi Wen",
-    "summary": "A grasuate student majoring in Algebraic geometry at Sun Yat-sen University",
+    "summary": "A PhD student majoring in Algebraic geometry at University of Notre Dame",
     "research interests": "Positivity of linear series and stability of syzygy bundles on toric varieties",
     "image": "",
-    "email": "wenhq7@mail2.sysu.edu.cn",
+    "email": "hwen2@nd.edu",
     "phone": "",
-    "url": "https://Vera-Wen7.github.io",
-    "location": {
-      "address": "135 W. Xingang RD.",
-      "postalCode": "510275",
-      "city": "Guangzhou",
-      "countryCode": "PR. China",
-      "region": "Guangdong"
-    },
+    "url": "https://huanqiwen.github.io",
+    "location": "",
     "profiles": [
       {
         "network": "",
