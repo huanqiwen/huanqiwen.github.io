@@ -2,7 +2,7 @@
 layout: page
 permalink: /documents/
 title: documents
-nav: fulse
+nav: false
 nav_order: 5
 ---
 
