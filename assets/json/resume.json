@@ -42,7 +42,21 @@
   ],
   "publications": [
     {
-      "name": "On Covering Simplices by Dilations in Dimensions 3 and 4,",
+      "name": "On Property N_p of line bundles on smooth projective toric varieties",
+      "publisher": "arXiv",
+      "releaseDate": "2026",
+      "url": "https://arxiv.org/abs/2606.30160",
+      "summary": "About syzygies and Property N_p of line bundles"
+    },
+    {
+      "name": "The integral closedness of lattice simplices with large lattice length",
+      "publisher": "arXiv",
+      "releaseDate": "2026",
+      "url": "https://arxiv.org/abs/2606.16348",
+      "summary": "About integral closedness of polytopes and Oda's conjecture in combinatorics "
+    },
+    {
+      "name": "On Covering Simplices by Dilations in Dimensions 3 and 4",
       "publisher": "arXiv",
       "releaseDate": "2024",
       "url": "https://arxiv.org/abs/2404.02495",
